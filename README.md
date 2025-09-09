@@ -1,6 +1,6 @@
-🔹 Days 1–10 (Foundations: Warm-up + Basics)
+🔹 Days 1–10 
 
-Arrays & Strings (stay sharp, confidence boost)
+Arrays & Strings 
 
 Simple DP, Graph, Backtracking starters
 
