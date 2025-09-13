@@ -1,220 +1,256 @@
-🔹 Days 1–10 
+🔹 Arrays & Strings
 
-Arrays & Strings 
+Two Sum – LeetCode✅
 
-Simple DP, Graph, Backtracking starters
+Best Time to Buy and Sell Stock – LeetCode✅
 
-Target ~20 problems
+Majority Element – LeetCode✅
 
-Two Sum
+Valid Anagram – LeetCode✅
 
-Best Time to Buy and Sell Stock
+Group Anagrams – LeetCode✅
 
-Majority Element
+Rotate Array – LeetCode✅
 
-Valid Anagram
+Set Matrix Zeroes – LeetCode
 
-Group Anagrams
+Next Permutation – LeetCode
 
-Climbing Stairs
- (1D DP)
+Search a 2D Matrix – LeetCode
 
-Min Cost Climbing Stairs
+Maximum Subarray – LeetCode
 
-House Robber
+Longest Palindromic Substring – LeetCode
 
-Maximum Subarray
+Minimum Window Substring – LeetCode
 
-Unique Paths
- (Grid DP)
+Sliding Window Maximum – LeetCode
 
-Flood Fill
- (Graph basics)
+Longest Repeating Character Replacement – LeetCode
 
-Number of Islands
+Merge Intervals – LeetCode
 
-Max Area of Island
+Insert Interval – LeetCode
 
-Word Search
- (Backtracking)
+Non-overlapping Intervals – LeetCode
 
-Subsets
+Meeting Rooms II – LeetCode
 
-Subsets II
+Minimum Number of Arrows to Burst Balloons – LeetCode
 
-Permutations
+Task Scheduler – LeetCode
 
-Combination Sum
+Candy – LeetCode
 
-Palindrome Partitioning
+Jump Game – LeetCode
 
-Generate Parentheses
+Jump Game II – LeetCode
 
-🔹 Days 11–20 (Trees + Graphs)
 
-Target ~25 problems
-21. Binary Tree Inorder Traversal
 
-22. Binary Tree Level Order Traversal
 
-23. Maximum Depth of Binary Tree
 
-24. Diameter of Binary Tree
 
-25. Path Sum
+🔹 Dynamic Programming
 
-26. Symmetric Tree
+Climbing Stairs – LeetCode
 
-27. Lowest Common Ancestor of a BST
+Min Cost Climbing Stairs – LeetCode
 
-28. Serialize and Deserialize Binary Tree
+House Robber – LeetCode
 
-29. Course Schedule
- (Graph - cycle detection)
-30. Course Schedule II
- (Topo sort)
-31. All Paths From Source to Target
+Unique Paths – LeetCode✅
 
-32. Detect Cycle in Undirected Graph
- (adapt BFS/DFS)
-33. Keys and Rooms
+Unique Paths II – LeetCode✅
 
-34. Redundant Connection
- (Union Find)
-35. Number of Connected Components
+Minimum Path Sum – LeetCode✅
 
-36. Graph Valid Tree
+Coin Change – LeetCode
 
-37. Clone Graph
+Coin Change II – LeetCode
 
-38. Rotting Oranges
+Partition Equal Subset Sum – LeetCode
 
-39. Word Ladder
+Target Sum – LeetCode
 
-40. Word Ladder II
+0/1 Knapsack – GfG
 
-41. Minimum Genetic Mutation
+Longest Increasing Subsequence – LeetCode
 
-42. Network Delay Time
- (Dijkstra)
-43. Cheapest Flights Within K Stops
+Longest Divisible Subset – LeetCode
 
-44. Bellman Ford variation
+Russian Doll Envelopes – LeetCode
 
-🔹 Days 21–30 (DP Deep Dive)
+Maximum Product Subarray – LeetCode
 
-Target ~25 problems
-45. Coin Change
+Longest Common Subsequence – LeetCode
 
-46. Coin Change II
+Shortest Common Supersequence – GfG
 
-47. Partition Equal Subset Sum
+Edit Distance – LeetCode
 
-48. Target Sum
+Distinct Subsequences – LeetCode
 
-49. 0/1 Knapsack (adapt via Subset Sum)
+Interleaving String – LeetCode
 
-50. Longest Increasing Subsequence
+Word Break – LeetCode
 
-51. Russian Doll Envelopes
+Word Break II – LeetCode
 
-52. Maximum Product Subarray
+Palindromic Substrings – LeetCode
 
-53. Longest Common Subsequence
+Longest Palindromic Subsequence – LeetCode
 
-54. Edit Distance
+Matrix Chain Multiplication – GfG
 
-55. Distinct Subsequences
+Burst Balloons – LeetCode
 
-56. Interleaving String
+Stone Game – LeetCode
 
-57. Palindromic Substrings
+Dungeon Game – LeetCode
 
-58. Longest Palindromic Subsequence
+Scramble String – LeetCode
 
-59. Regular Expression Matching
+Paint House – LeetCode
 
-60. Wildcard Matching
+Paint Fence – LeetCode
 
-61. Burst Balloons
+Regular Expression Matching – LeetCode
 
-62. Stone Game
+Wildcard Matching – LeetCode
 
-63. Dungeon Game
 
-64. Minimum Window Subsequence
 
-65. Word Break
 
-66. Word Break II
 
-67. Scramble String
 
-68. Paint House
+🔹 Trees
 
-69. Paint Fence
+Binary Tree Inorder Traversal – LeetCode
 
-🔹 Days 31–40 (Tries + Mix + Advanced)
+Binary Tree Level Order Traversal – LeetCode
 
-Target ~30 problems
-70. Implement Trie (Prefix Tree)
+Binary Tree Zigzag Level Order Traversal – LeetCode
 
-71. Add and Search Word
+Maximum Depth of Binary Tree – LeetCode
 
-72. Replace Words
+Diameter of Binary Tree – LeetCode
 
-73. Maximum XOR of Two Numbers
+Path Sum – LeetCode
 
-74. Design Search Autocomplete System
+Symmetric Tree – LeetCode
 
-75. Concatenated Words
+Lowest Common Ancestor of a BST – LeetCode
 
-76. Word Search II
+Top View of Binary Tree – GfG
 
-77. Alien Dictionary
- (Graph + Trie combo)
-78. Serialize and Deserialize N-ary Tree
+Bottom View of Binary Tree – GfG
 
-79. Find Median from Data Stream
+Vertical Order Traversal – LeetCode
 
-80. LFU Cache
+Boundary Traversal of Binary Tree – GfG
 
-81. LRU Cache
+Serialize and Deserialize Binary Tree – LeetCode
 
-82. Design Twitter
+Serialize and Deserialize N-ary Tree – 
 
-83. Minimum Window Substring
 
-84. Sliding Window Maximum
 
-85. Longest Repeating Character Replacement
 
-86. Minimum Number of Arrows to Burst Balloons
 
-87. Task Scheduler
+🔹 Graphs
 
-88. Meeting Rooms II
+Flood Fill – LeetCode
 
-89. Merge Intervals
+Number of Islands – LeetCode
 
-90. Insert Interval
+Max Area of Island – LeetCode
 
-91. Non-overlapping Intervals
+Word Search – LeetCode
 
-92. Course Schedule III
+Word Search II – LeetCode
 
-93. Minimum Spanning Tree (Prim’s/Kruskal’s variant)
+Subsets – LeetCode
 
-94. Critical Connections in a Network
- (Tarjan’s Algo)
-95. Shortest Path in Binary Matrix
+Subsets II – LeetCode
 
-96. Path With Minimum Effort
+Permutations – LeetCode
 
-97. Swim in Rising Water
+Combination Sum – LeetCode
 
-98. Jump Game
+Palindrome Partitioning – LeetCode
 
-99. Jump Game II
+Generate Parentheses – LeetCode
 
-100. Candy
+All Paths From Source to Target – LeetCode
+
+Detect Cycle in Undirected Graph – GfG
+
+Course Schedule – LeetCode✅
+
+Course Schedule II – LeetCode
+
+Course Schedule III – LeetCode
+
+Graph Valid Tree – LeetCode
+
+Number of Connected Components – LeetCode
+
+Keys and Rooms – LeetCode
+
+Redundant Connection – LeetCode
+
+Clone Graph – LeetCode
+
+Rotting Oranges – LeetCode
+
+Word Ladder – LeetCode
+
+Word Ladder II – LeetCode
+
+Minimum Genetic Mutation – LeetCode
+
+Alien Dictionary – LeetCode
+
+Network Delay Time – LeetCode
+
+Cheapest Flights Within K Stops – LeetCode
+
+Bellman-Ford (Detect Negative Cycle) – GfG
+
+Minimum Spanning Tree (Kruskal/Prim) – GfG
+
+Critical Connections in a Network – LeetCode
+
+Shortest Path in Binary Matrix – LeetCode
+
+Path With Minimum Effort – LeetCode
+
+Swim in Rising Water – LeetCode
+
+
+
+
+
+
+🔹 Tries + Design
+
+Implement Trie – LeetCode
+
+Add and Search Word – LeetCode
+
+Replace Words – LeetCode
+
+Maximum XOR of Two Numbers – LeetCode
+
+Design Search Autocomplete System – LeetCode
+
+Concatenated Words – LeetCode
+
+Find Median from Data Stream – LeetCode
+
+LFU Cache – LeetCode
+
+LRU Cache – LeetCode
+
+Design Twitter – LeetCode
