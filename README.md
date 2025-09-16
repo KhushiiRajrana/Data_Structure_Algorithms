@@ -18,7 +18,7 @@ Next Permutation – LeetCode
 
 Search a 2D Matrix – LeetCode
 
-Maximum Subarray – LeetCode
+Maximum Subarray – LeetCode✅
 
 Longest Palindromic Substring – LeetCode
 
