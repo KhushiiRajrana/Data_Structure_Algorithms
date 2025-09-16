@@ -12,11 +12,11 @@ Group Anagrams – LeetCode✅
 
 Rotate Array – LeetCode✅
 
-Set Matrix Zeroes – LeetCode
+Set Matrix Zeroes – LeetCode✅
 
 Next Permutation – LeetCode
 
-Search a 2D Matrix – LeetCode
+Search a 2D Matrix – LeetCode✅
 
 Maximum Subarray – LeetCode✅
 
